@@ -1,0 +1,5 @@
+classes= 1
+train  = /home/eric/bbox/BBox-Label-Tool/stopsign_list.txt
+test = /home/eric/bbox/BBox-Label-Tool/stopsign_list.txt
+names = cfg/roomba.names
+backup = /home/eric/backup/
